@@ -1,0 +1,101 @@
+engine A,engine B,similarity
+Fortinet,Webroot,0.6214490903287584
+Fortinet,MalwarePatrol,0.6791934005499541
+Fortinet,CyRadar,0.6905494505494505
+Fortinet,alphaMountain.ai,0.678239608801956
+Fortinet,Comodo Valkyrie Verdict,0.6041666666666666
+Fortinet,CRDF,0.5403624382207578
+Fortinet,Sophos,0.6001390820584145
+Fortinet,G-Data,0.6469824789097989
+Fortinet,ESET,0.571537290715373
+Webroot,MalwarePatrol,0.5847332743884468
+Webroot,CyRadar,0.6250498603909055
+Webroot,alphaMountain.ai,0.6737967914438503
+Webroot,Comodo Valkyrie Verdict,0.4101251422070535
+Webroot,CRDF,0.3789237668161435
+Webroot,Sophos,0.43014230271668824
+Webroot,G-Data,0.5251520176893312
+Webroot,ESET,0.385070214338507
+MalwarePatrol,CyRadar,0.552463503649635
+MalwarePatrol,alphaMountain.ai,0.5842874062376628
+MalwarePatrol,Comodo Valkyrie Verdict,0.28989751098096633
+MalwarePatrol,CRDF,0.1520361990950226
+MalwarePatrol,Sophos,0.2748629600626468
+MalwarePatrol,G-Data,0.404559915164369
+MalwarePatrol,ESET,0.0987535953978907
+CyRadar,alphaMountain.ai,0.4451535700039888
+CyRadar,Comodo Valkyrie Verdict,0.39801816680429397
+CyRadar,CRDF,0.439771335238873
+CyRadar,Sophos,0.2812172088142707
+CyRadar,G-Data,0.3013174670633234
+CyRadar,ESET,0.2845953002610966
+alphaMountain.ai,Comodo Valkyrie Verdict,0.33240997229916897
+alphaMountain.ai,CRDF,0.14593023255813953
+alphaMountain.ai,Sophos,0.2240080361627323
+alphaMountain.ai,G-Data,0.3281907433380084
+alphaMountain.ai,ESET,0.21365149833518313
+Comodo Valkyrie Verdict,CRDF,0.291005291005291
+Comodo Valkyrie Verdict,Sophos,0.19551820728291316
+Comodo Valkyrie Verdict,G-Data,0.13272727272727272
+Comodo Valkyrie Verdict,ESET,0.21471718835804504
+CRDF,Sophos,0.14997794441993825
+CRDF,G-Data,0.12904696762425902
+CRDF,ESET,0.1881625441696113
+Sophos,G-Data,0.20815698345517505
+Sophos,ESET,0.23712486105965172
+G-Data,ESET,0.12268141880898145
+Webroot,Fortinet,0.6214490903287584
+MalwarePatrol,Fortinet,0.6791934005499541
+CyRadar,Fortinet,0.6905494505494505
+alphaMountain.ai,Fortinet,0.678239608801956
+Comodo Valkyrie Verdict,Fortinet,0.6041666666666666
+CRDF,Fortinet,0.5403624382207578
+Sophos,Fortinet,0.6001390820584145
+G-Data,Fortinet,0.6469824789097989
+ESET,Fortinet,0.571537290715373
+MalwarePatrol,Webroot,0.5847332743884468
+CyRadar,Webroot,0.6250498603909055
+alphaMountain.ai,Webroot,0.6737967914438503
+Comodo Valkyrie Verdict,Webroot,0.4101251422070535
+CRDF,Webroot,0.3789237668161435
+Sophos,Webroot,0.43014230271668824
+G-Data,Webroot,0.5251520176893312
+ESET,Webroot,0.385070214338507
+CyRadar,MalwarePatrol,0.552463503649635
+alphaMountain.ai,MalwarePatrol,0.5842874062376628
+Comodo Valkyrie Verdict,MalwarePatrol,0.28989751098096633
+CRDF,MalwarePatrol,0.1520361990950226
+Sophos,MalwarePatrol,0.2748629600626468
+G-Data,MalwarePatrol,0.404559915164369
+ESET,MalwarePatrol,0.0987535953978907
+alphaMountain.ai,CyRadar,0.4451535700039888
+Comodo Valkyrie Verdict,CyRadar,0.39801816680429397
+CRDF,CyRadar,0.439771335238873
+Sophos,CyRadar,0.2812172088142707
+G-Data,CyRadar,0.3013174670633234
+ESET,CyRadar,0.2845953002610966
+Comodo Valkyrie Verdict,alphaMountain.ai,0.33240997229916897
+CRDF,alphaMountain.ai,0.14593023255813953
+Sophos,alphaMountain.ai,0.2240080361627323
+G-Data,alphaMountain.ai,0.3281907433380084
+ESET,alphaMountain.ai,0.21365149833518313
+CRDF,Comodo Valkyrie Verdict,0.291005291005291
+Sophos,Comodo Valkyrie Verdict,0.19551820728291316
+G-Data,Comodo Valkyrie Verdict,0.13272727272727272
+ESET,Comodo Valkyrie Verdict,0.21471718835804504
+Sophos,CRDF,0.14997794441993825
+G-Data,CRDF,0.12904696762425902
+ESET,CRDF,0.1881625441696113
+G-Data,Sophos,0.20815698345517505
+ESET,Sophos,0.23712486105965172
+ESET,G-Data,0.12268141880898145
+Fortinet,Fortinet,1.0
+Webroot,Webroot,1.0
+MalwarePatrol,MalwarePatrol,1.0
+CyRadar,CyRadar,1.0
+alphaMountain.ai,alphaMountain.ai,1.0
+Comodo Valkyrie Verdict,Comodo Valkyrie Verdict,1.0
+CRDF,CRDF,1.0
+Sophos,Sophos,1.0
+G-Data,G-Data,1.0
+ESET,ESET,1.0
